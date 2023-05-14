@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324745265577",
+    "project_id": "translator-app-2c293",
+    "storage_bucket": "translator-app-2c293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324745265577:android:d277c17b199828d8c344b8",
+        "android_client_info": {
+          "package_name": "com.rami94.languagetranslatorap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324745265577-sp1enlehlcppqnbql7o5ugf7dkv1kfoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE1C7M_ogRtXKY4gu8p8ihUXE70pj52aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324745265577-sp1enlehlcppqnbql7o5ugf7dkv1kfoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
